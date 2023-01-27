@@ -1,0 +1,9 @@
+.add-btn{
+  text-align: right;
+}
+
+.card-1{
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px 4px gray;
+}
